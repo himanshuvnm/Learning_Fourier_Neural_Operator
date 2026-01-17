@@ -1,4 +1,7 @@
-# Learning_Fourier_Neural_Operator
+# Learning Fourier Neural Operator
+
+For datasets use: https://drive.google.com/drive/folders/1UnbQh2WWc6knEHbLn-ZaXrKUZhp7pjt-
+
 We provide the action of the Fourier Neural Operator over the Burger's Equation with non-dimensional parameter value of the system as 10. Here, the results are given in the consideration of various resolution sizes.
 
 <img width="1678" height="1302" alt="64resolution" src="https://github.com/user-attachments/assets/0233e7bb-7a72-4ef2-bf06-8da1a0c2787e" />
