@@ -1,7 +1,5 @@
 # Learning Fourier Neural Operator
 
-For datasets use: https://drive.google.com/drive/folders/1UnbQh2WWc6knEHbLn-ZaXrKUZhp7pjt-
-
 This repo reproduces and analyzes a Fourier Neural Operator (FNO) baseline on the 1D viscous Burgers' equation at Reynolds number Re=10.  
 
 ## What I implemented
@@ -17,3 +15,7 @@ This repo reproduces and analyzes a Fourier Neural Operator (FNO) baseline on th
 <img width="1678" height="1302" alt="1024resolution" src="https://github.com/user-attachments/assets/8211264a-a058-40fa-bdeb-51aa0a4a1579" />
 
 <img width="3034" height="1113" alt="FNO_Berger_Learning" src="https://github.com/user-attachments/assets/e9ded1cd-8b0e-4512-ad22-26d08df4e17c" />
+
+Also refer: Li et al., Fourier Neural Operator for Parametric PDEs (original FNO paper)
+
+Also for datasets use: https://drive.google.com/drive/folders/1UnbQh2WWc6knEHbLn-ZaXrKUZhp7pjt-
