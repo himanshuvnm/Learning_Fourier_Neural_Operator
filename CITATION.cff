@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this code in your research, please cite it as below."
+
+title: "Learning Fourier Neural Operator for 1D Burgers' Equation"
+type: software
+
+authors:
+  - family-names: Singh
+    given-names: Himanshu
+    email: himanshuvnm@gmail.com
+    orcid: https://orcid.org/0000-0001-8816-1340  # optional
+
+repository-code: "https://github.com/himanshuvnm/Learning_Fourier_Neural_Operator"
+
+keywords:
+  - Fourier Neural Operator
+  - Scientific Machine Learning
+  - PDE Learning
+  - Operator Learning
+  - Burgers Equation
+  - Deep Learning
+  - Spectral Methods
+
+license: MIT
+
+date-released: 2026-01-19
+
+preferred-citation:
+  type: article
+  title: "Learning Fourier Neural Operator for 1D Burgers' Equation"
+  authors:
+    - family-names: Singh
+      given-names: Himanshu
+  year: 2025
+  url: "https://github.com/himanshuvnm/Learning_Fourier_Neural_Operator"
