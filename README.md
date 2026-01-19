@@ -2,7 +2,13 @@
 
 For datasets use: https://drive.google.com/drive/folders/1UnbQh2WWc6knEHbLn-ZaXrKUZhp7pjt-
 
-We provide the action of the Fourier Neural Operator over the Burger's Equation with non-dimensional parameter value of the system as 10. Here, the results are given in the consideration of various resolution sizes.
+This repo reproduces and analyzes a Fourier Neural Operator (FNO) baseline on the 1D viscous Burgers' equation at Reynolds number Re=10.  
+
+## What I implemented
+- Data preprocessing + train/val/test splits
+- FNO model + training loop
+- Evaluation on held-out trajectories
+- Resolution study with consistent hyperparameters
 
 <img width="1678" height="1302" alt="64resolution" src="https://github.com/user-attachments/assets/0233e7bb-7a72-4ef2-bf06-8da1a0c2787e" />
 
