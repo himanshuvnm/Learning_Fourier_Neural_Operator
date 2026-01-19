@@ -41,3 +41,14 @@ $$
 <img width="3034" height="1113" alt="FNO_Berger_Learning" src="https://github.com/user-attachments/assets/e9ded1cd-8b0e-4512-ad22-26d08df4e17c" />
 
 We observe stable operator generalization across discretizations. Also for datasets use: https://drive.google.com/drive/folders/1UnbQh2WWc6knEHbLn-ZaXrKUZhp7pjt-
+
+## Research Theme
+-- Operator learning
+
+-- Scientific machine learning
+
+-- Spectral neural networks
+
+-- PDE surrogate modeling
+
+-- Physics-informed learning
